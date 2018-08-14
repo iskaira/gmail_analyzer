@@ -2,7 +2,6 @@ asn1crypto==0.24.0
 certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.2.2
 gmail-api-wrapper==0.1.1a2
 google-api-python-client==1.6.3
 httplib2==0.11.3
