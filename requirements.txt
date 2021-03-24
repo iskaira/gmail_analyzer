@@ -17,7 +17,7 @@ pyOpenSSL==17.5.0
 pyTelegramBotAPI==3.6.2
 python-dateutil==2.7.2
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 six==1.11.0
 uritemplate==3.0.0
 urllib3==1.22
